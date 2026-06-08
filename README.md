@@ -12,6 +12,10 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 - Seaborn
 - Google Colab
 
+## Dataset
+Retail Sales Dataset (sourced from Kaggle)
+Contains transaction-level data including date, product category, customer details, quantity, and total sales amount
+
 ## Analysis Performed
 - Data Cleaning
 - Descriptive Statistics
